@@ -36,25 +36,25 @@ I’m passionate about **exploring both hardware and software domains** and love
 
 ### 📌 Projects
 
-- 🚗 **Self-Driving Bot (Proteus Simulation)**  
+- 🤖 **Self-Driving Bot (Proteus Simulation)**  
   Created a self-driving robot using Arduino and Proteus simulation to autonomously navigate and avoid obstacles using ultrasonic sensors and motor control. This project combines embedded system design and real-time decision-making to simulate autonomous driving.  
-  🔗 [GitHub Repo](https://github.com/varshaverma-22/self-driving-bot)
+  🔗 [GitHub Repo](https://github.com/varshaverma-22/self_driving_bot)
 
-- 🚦 **High-Speed Accident Prevention System (Arduino)**  
+- 🚦 **High-Speed Accident Prevention System**  
   Developed an embedded system that detects obstacles within 10 cm using an ultrasonic sensor and automatically simulates braking via a servo motor. Real-time alerts provided through LEDs and buzzer.  
-  🔗 [GitHub Repo](https://github.com/varshaverma-22/high-speed-accident-prevention)
+  🔗 [GitHub Repo](https://github.com/varshaverma-22/control_system)
 
 - 🚧 **Obstacle Avoiding Robot**  
   Built an obstacle avoiding robot using Arduino and ultrasonic sensors to detect and avoid objects with intelligent motor control.  
-  🔗 [GitHub Repo](https://github.com/varshaverma-22/obstacle-avoiding-robot)
+  🔗 [GitHub Repo](https://github.com/varshaverma-22/obstacle_avoider_bot)
 
 - 🔐 **Smart Door Lock System using Arduino**  
   Designed a secure door lock using Arduino Uno, keypad, and servo motor with password protection and real-time LCD status display.  
-  🔗 [GitHub Repo](https://github.com/varshaverma-22/smart-door-lock)
+  🔗 [GitHub Repo](https://github.com/varshaverma-22/smart_door_lock_system)
 
-- 🧠 **Automated Order Data Cleanup & Insights**  
-  Used Python (Pandas) and SQL to clean and analyze sales order data, generating KPIs like top products and year-over-year growth.  
-  🔗 [GitHub Repo](https://github.com/varshaverma-22/order-data-analysis)
+- 🔄 **Return Exchange Cycle Detector**  
+  Developed a system to detect and analyze product return and exchange cycles using data processing techniques.  
+  🔗 [GitHub Repo](https://github.com/varshaverma-22/return_exchange_cycle_detector)
 
 ---
 
